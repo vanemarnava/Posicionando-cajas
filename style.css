@@ -1,0 +1,57 @@
+
+.caja-padre1
+{
+	width: 400px;
+	height: 400px;
+	background-color: red;
+	margin-bottom: 30px; /*separacion que tendra la caja de arriba con respecto la caja de abajo*/
+	position: relative;
+}
+
+.caja1
+{
+	width: 200px;
+	height: 200px;
+	background-color: purple;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+
+.caja2
+{
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+
+
+.caja-padre2
+{
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+	position: relative;
+}
+
+.caja1-2
+{
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+}
+
+.caja2-2
+{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	background-color: black;
+}
+
